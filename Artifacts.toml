@@ -1,0 +1,89 @@
+[[Xorg_scrnsaverproto]]
+arch = "armv7l"
+git-tree-sha1 = "51ed5f6b244293544c16b40e69870f54596cd20f"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_scrnsaverproto.download]]
+    sha256 = "7a0502206c28c455f3eef3b843f51819319ce18e7939d002815490de77c03c6d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_scrnsaverproto_jll.jl/releases/download/Xorg_scrnsaverproto-v1.2.2+0/Xorg_scrnsaverproto.v1.2.2.arm-linux-gnueabihf.tar.gz"
+[[Xorg_scrnsaverproto]]
+arch = "aarch64"
+git-tree-sha1 = "10cca3a777f0635e2570c69cfe794deac3d4c161"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_scrnsaverproto.download]]
+    sha256 = "92e185c33368c2530b0caafda3535f83b4f1a3e8701b532092abe03a91176cc7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_scrnsaverproto_jll.jl/releases/download/Xorg_scrnsaverproto-v1.2.2+0/Xorg_scrnsaverproto.v1.2.2.aarch64-linux-musl.tar.gz"
+[[Xorg_scrnsaverproto]]
+arch = "i686"
+git-tree-sha1 = "e445162cc723f606b0b4108c1195edd2707bd21f"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_scrnsaverproto.download]]
+    sha256 = "d51c1dbfb7bc8c4783bda4fb32a0dcc2740e7e3712641aedf6e3d1be26157a50"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_scrnsaverproto_jll.jl/releases/download/Xorg_scrnsaverproto-v1.2.2+0/Xorg_scrnsaverproto.v1.2.2.i686-linux-musl.tar.gz"
+[[Xorg_scrnsaverproto]]
+arch = "i686"
+git-tree-sha1 = "4884e638d73b6bb329e2bd7ae9663c72f99ef522"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_scrnsaverproto.download]]
+    sha256 = "7cd22d33418713699295bfd201f18394d12b6b8d31d791939853ee091d3d79bd"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_scrnsaverproto_jll.jl/releases/download/Xorg_scrnsaverproto-v1.2.2+0/Xorg_scrnsaverproto.v1.2.2.i686-linux-gnu.tar.gz"
+[[Xorg_scrnsaverproto]]
+arch = "x86_64"
+git-tree-sha1 = "f1dbda5dba9b61e2441e34ad08d010c442418993"
+os = "freebsd"
+
+    [[Xorg_scrnsaverproto.download]]
+    sha256 = "84756255109b5178cffa92aef8103c5ff6a75b3fcb033faf5a717ddff3732929"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_scrnsaverproto_jll.jl/releases/download/Xorg_scrnsaverproto-v1.2.2+0/Xorg_scrnsaverproto.v1.2.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_scrnsaverproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "6c38de93636d3587bf26a777c691d7eaa82abdb2"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_scrnsaverproto.download]]
+    sha256 = "8f973493ffc238bdc5c35014ea941524136810f46a8c3931fb63ccb90ea4dd46"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_scrnsaverproto_jll.jl/releases/download/Xorg_scrnsaverproto-v1.2.2+0/Xorg_scrnsaverproto.v1.2.2.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_scrnsaverproto]]
+arch = "armv7l"
+git-tree-sha1 = "74080c23228e33a132d68f0c60814ecde98857c2"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_scrnsaverproto.download]]
+    sha256 = "06af2451be90ebfaf1d8d6bde8abe4839537b6464b58f3071ae35997703b8ed6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_scrnsaverproto_jll.jl/releases/download/Xorg_scrnsaverproto-v1.2.2+0/Xorg_scrnsaverproto.v1.2.2.arm-linux-musleabihf.tar.gz"
+[[Xorg_scrnsaverproto]]
+arch = "aarch64"
+git-tree-sha1 = "86094c0a8c68f182249862f8c9e78de8d6499fa9"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_scrnsaverproto.download]]
+    sha256 = "2a1801a161af598c30a92bc386bba0e196b973c58023ec6ab48a372ca372b7b6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_scrnsaverproto_jll.jl/releases/download/Xorg_scrnsaverproto-v1.2.2+0/Xorg_scrnsaverproto.v1.2.2.aarch64-linux-gnu.tar.gz"
+[[Xorg_scrnsaverproto]]
+arch = "x86_64"
+git-tree-sha1 = "367a2af35d4993080fd67b1817cac3988d5a9a74"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_scrnsaverproto.download]]
+    sha256 = "8665596476f1fb35d483611de16790fe971b0a2fa53d45306882d11e0ea3e3a4"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_scrnsaverproto_jll.jl/releases/download/Xorg_scrnsaverproto-v1.2.2+0/Xorg_scrnsaverproto.v1.2.2.x86_64-linux-gnu.tar.gz"
+[[Xorg_scrnsaverproto]]
+arch = "x86_64"
+git-tree-sha1 = "bf2eaf7d446747ae27835abd1efb34080a809a15"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_scrnsaverproto.download]]
+    sha256 = "912ea0038480da3b784f88687ef422dec21ef0c95054cd66edf2ee4802744f7c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_scrnsaverproto_jll.jl/releases/download/Xorg_scrnsaverproto-v1.2.2+0/Xorg_scrnsaverproto.v1.2.2.x86_64-linux-musl.tar.gz"
